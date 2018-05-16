@@ -10,7 +10,7 @@ IOGuidePro(SIXNET)
 | date | version | link | Inform |
 |---|---|---|-------------|
 | 20180516 | 1.0.0.0 beta1 | [Download](https://github.com/CREVIS/IOGuidePro/raw/master/SIXNET/IOGuidePro(1.0.0.0)_beta1_SIXNET.zip)|
-<ul><li> 완성된 버전 X Download하지마시요 (자료 전달용) </li></ul> |
+<ul><li> 완성된 버전 X Download하지마시요 (자료 전달용)<br/> </li></ul> |
 
 
  
