@@ -10,7 +10,7 @@ IOGuidePro(SIXNET)
 | date | version | link | Inform |
 |---|---|---|-------------|
 | 20180516 | 1.0.0.0 beta1 | [Download]
-()|완성된 버전 X Download하지마시요 (자료 전달용)
+()| <ul> <li> 완성된 버전 X Download하지마시요 (자료 전달용) </li></ul>
 
 
  
