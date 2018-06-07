@@ -11,6 +11,11 @@ IOGuidePro(SIXNET)
 |---|---|---|-------------|
 | 20180523 | 1.0.0.0 beta1 | [Download](https://github.com/CREVIS/IOGuidePro/raw/master/SIXNET/IOGuidePro(1.0.0.0)_1.zip)|<ul><li> 완성된 버전 X Download하지마시요 (자료 전달용) </li> <li>SIX HomePage Update</li> <li>bootP SIXNET 버전 변경</li> </ul> |
 
+IOGuidePro(UNITRONIX)
+=====================
+| date | version | link | Inform |
+|---|---|---|-------------|
+| 20180607 | 1.0.0.0 beta1 | [Download](https://github.com/CREVIS/IOGuidePro/raw/master/SIXNET/IOGuidePro(1.0.0.0)_1.zip)|<ul><li> Create </li> <li>SIX HomePage Update</li> <li>bootP SIXNET 버전 변경</li> </ul> |
 
 
  
