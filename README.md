@@ -15,7 +15,7 @@ IOGuidePro(UNITRONIX)
 =====================
 | date | version | link | Inform |
 |---|---|---|-------------|
-| 20180607 | 1.0.0.0 beta1 | [Download](https://github.com/CREVIS/IOGuidePro/raw/master/UNITRONIX/BootpServer%201000.zip)|<ul><li> Create </li>|
+| 20180607 | 1.0.0.0 beta1 | [Download](https://github.com/CREVIS/IOGuidePro/raw/master/UNITRONIX/BootpServer%201000.zip)|<ul><li> Create only Bootp </li>|
 
 
  
