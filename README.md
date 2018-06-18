@@ -21,7 +21,7 @@ IOGuidePro(HITACHI)
 =====================
 | date | version | link | Inform |
 |---|---|---|-------------|
-| 20180607 | 1.0.0.0 | [Download](https://github.com/CREVIS/IOGuidePro/raw/master/HITACHI/IOGuidePro_1.0.0.3_beta1.zip)|<ul><li> 1. RIO2_RTD4H, RIO2-RTD8H XML Update.(st-3754, 3758) 완료 </li> <li>2. NA CANOPEN(NA-9261) XML Update (개발3팀 서치원)</li> <li>3. RIO2-PBA2(NA-9222) XML Update (기존모듈 누락된 : 김윤성)</li> <li>4. RIO2-PWM2,PO2,CU24 XML 수정 (onChsize) 완료</li> <li>5. RIO2-CAN, RIO2-PBA2 Image 추가 </li> <li>6. 멀티버스 버그 추가 수정</li><ul>|
+| 20180618 | 1.0.0.0 | [Download](https://github.com/CREVIS/IOGuidePro/raw/master/HITACHI/IOGuidePro_1.0.0.3_beta1.zip)|<ul><li> 1. RIO2_RTD4H, RIO2-RTD8H XML Update.(st-3754, 3758) 완료 </li> <li>2. NA CANOPEN(NA-9261) XML Update (개발3팀 서치원)</li> <li>3. RIO2-PBA2(NA-9222) XML Update (기존모듈 누락된 : 김윤성)</li> <li>4. RIO2-PWM2,PO2,CU24 XML 수정 (onChsize) 완료</li> <li>5. RIO2-CAN, RIO2-PBA2 Image 추가 </li> <li>6. 멀티버스 버그 추가 수정</li><ul>|
 
 
  
