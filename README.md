@@ -11,8 +11,8 @@ IOGuidePro(SIXNET)
 | date | version | link | Inform |
 |---|---|---|-------------|
 | 20180620 | 1.0.0.0 beta1 | [Download](https://github.com/CREVIS/IOGuidePro/raw/master/SIXNET/IOGuidePro(1.0.0.0)_1.zip)|<ul><li> 완성된 버전 X Download하지마시요 (자료 전달용) </li> <li>SIX HomePage Update</li> <li>bootP SIXNET 버전 변경</li> <li>AutoScan 비활성화 버그 수정</li><li>Documentation 창 SYS-700 Tools수정 변경</li> <li>.CIO파일 저장 시 또는 창 SYS-700 Tools로 수정 변경</li> <li>chm 파일 업데이트</li> <li>Main Tab 이미지 업데이트</li><li>chm Update</li></ul> | 
-| 20180802 | 1.0.0.0 beta2 | [Download](https://github.com/CREVIS/IOGuidePro/raw/master/SIXNET/IOGuidePro(1.0.0.0)_2.zip)|<ul><li> 전 S시리즈 IO XML 업데이트</li><li>AboutDlg -> 라벨 SYS-700 변경</li><li>chm 에서 몇몇 모듈 누락되어 있음</li><li>설치파일명 IOGuidePro –> SYS700Tools 변경
-</li><li>Help –> FnIo Technical Data 에서 FnIo 삭제</li></ul> | 
+| 20180802 | 1.0.0.0 beta2 | [Download](https://github.com/CREVIS/IOGuidePro/raw/master/SIXNET/IOGuidePro(1.0.0.0)_2.zip)|<ul><li> 전 S시리즈 IO XML 업데이트</li><li>AboutDlg -> 라벨 SYS-700 변경</li><li>chm 에서 몇몇 모듈 누락되어 있음</li><li>설치파일명 IOGuidePro –> SYS700Tools 변경</li><li>Help –> FnIo Technical Data 에서 FnIo 삭제</li></ul> | 
+
 
 IOGuidePro(UNITRONIX)
 =====================
