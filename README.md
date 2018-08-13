@@ -18,7 +18,7 @@ IOGuidePro(UNITRONIX)
 =====================
 | date | version | link | Inform |
 |---|---|---|-------------|
-| 20180607 | 1.0.0.0 | [Download](https://github.com/CREVIS/IOGuidePro/raw/master/UNITRONIX/BootpServer%201000.zip)|<ul><li> Create only Bootp mode </li></ul>|
+| 20180607 | 1.0.0.0 | [Download](https://github.com/CREVIS/IOGuidePro/raw/master/UNITRONIX/BootpServer%201000_unitronics.zip)|<ul><li> Create only Bootp mode </li> <li>exe 파일속성 Crevis->Unitronics 변경 완료</li></ul>|
  
 IOGuidePro(HITACHI)
 =====================
